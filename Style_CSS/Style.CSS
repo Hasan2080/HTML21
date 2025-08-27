@@ -1,0 +1,36 @@
+<style>
+        .TPIS {background-size: 200px; background-color: blueviolet; text-align: center;}
+        h1 {color: blueviolet;}
+        h2 {color: brown;}
+        h3 {color: chocolate;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+        h4 {color: coral;}
+        h5 {color: crimson;}
+        h6 {color: darkgreen;}
+        p {color:rgb(218, 5, 5)}
+        img {border-radius: 50%; display: block; margin-left: auto; margin-right: auto;}
+        #HH1 {color:darkred;}
+        #HH2 {color:rgb(65, 250, 8);}
+        #TS {color:rgb(255, 0, 0); text-align: center; padding:10px; border-radius:10px; padding: 5px;}
+        #lp {color: brown; text-align: center;}
+        #log {text-align:left; width: 300px; height: 20px; border-radius: 5px; padding: 5px;}
+        #pas {width: 300px; height: 20px; border-radius: 5px; padding: 5px;}
+        #but {width: 100px; height: 30px; border-radius: 10px; background-color: rgb(0, 255, 136); font-weight: bold; cursor: pointer;}
+        form { /* full height of screen */
+      margin: 0,auto; text-align: center; }
+        #but:hover {background-color: rgb(0, 191, 255); color: white;}
+        /* #lp { font-size: larger;} */
+        #TS { font-size: xx-large; font-weight: bold;}
+        #lp { font-size:large; font-weight: bold;}
+        /* #dl {background-color: rgb(193, 183, 202); width: 300px; padding: 10px; border-radius: 10px;} */
+        #dl {background-color: royalblue; width: 200px; padding: 10px; border-radius: 10px;}
+        .HLT, #HLT {background-color:aqua; width: 300px; padding: 10px; border-radius: 10px;text-align: center;}
+        .Yellow {background-color: yellow;}
+        .bold, .Yellow {font-weight: bold;}
+        .bold {background-color: yellow;}
+        div {background-color: rgb(237, 234, 240); width: 350px; margin: 0 auto; padding: 10px; border-radius: 10px;
+        box-shadow: 10px 10px 10px rgb(226, 191, 191); width: 400px;}
+        #TPLOGO {box-shadow: 2px 2px 20px 10px rgb(175, 173, 173); border-radius: 50%;}
+       * {box-sizing: border-box;}
+
+       
+    </style>
