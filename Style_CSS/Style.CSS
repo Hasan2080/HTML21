@@ -1,5 +1,5 @@
 <style>
-        .TPIS {background-size: 200px; background-color: blueviolet; text-align: center;}
+        .TPIS {background-size: 300px; background-color: blueviolet; text-align: right;}
         h1 {color: blueviolet;}
         h2 {color: brown;}
         h3 {color: chocolate;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
@@ -31,6 +31,13 @@
         box-shadow: 10px 10px 10px rgb(226, 191, 191); width: 400px;}
         #TPLOGO {box-shadow: 2px 2px 20px 10px rgb(175, 173, 173); border-radius: 50%;}
        * {box-sizing: border-box;}
+       .video{box-shadow: 5px 5px 20px; color: rgb(175, 173, 173); border-radius: 20px;  }
+       .youtube{box-shadow: 5px 5px 20px; color: rgb(175, 173, 173); border-radius: 20px;  }
+       nav > ul > li {display: inline; margin-right: 20px; }
+       nav li > a {text-decoration: none; color: blueviolet; font-weight: bold; }
+       footer{margin-top: 30px; text-align: center; font-size: small; color: gray; }
+       #figure {box-shadow: 10px 30px 20px; color: rgb(175, 173, 173); border-radius: 100%;} 
 
+        
        
     </style>
